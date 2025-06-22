@@ -1,0 +1,9 @@
+- Primeiro foi extraido a base da dados do pokemon do site https://www.pokemon.com/br/pokedex.
+
+- posteriormente foi utilizado a PokeAPI para popular a base com a localização de captura de cada pokemon.
+
+- é utilizada a codificação de One Hot Encoding para lidar com valores que são listas, como os habilidade, tipo, fraqueza e locais de captura.
+
+- É utilizado o site https://pokemondb.net/pokedex/all e extraido seu html com beatifulsoap para resgatar dados de status do pokemon
+    - HP, Attack, Defense, Super Attack, Super Defesa e Speed
+    
