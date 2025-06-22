@@ -6,4 +6,5 @@
 
 - É utilizado o site https://pokemondb.net/pokedex/all e extraido seu html com beatifulsoap para resgatar dados de status do pokemon
     - HP, Attack, Defense, Super Attack, Super Defesa e Speed
+    - Alguns pokemons possuem diferentes "Formas" com status diferentes, foi considerados os status da forma considerada padrão/normal.
     
